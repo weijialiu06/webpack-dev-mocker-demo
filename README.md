@@ -1,5 +1,5 @@
 # webpack-dev-mocker-demo
-webpack-dev-mocker-demo
+demo of [webpack-dev-mocker](https://github.com/weijialiu06/webpack-dev-mocker)
 
 ```
 git clone https://github.com/weijialiu06/webpack-dev-mocker-demo.git
